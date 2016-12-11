@@ -1,0 +1,6 @@
+framework module Pods_RainTap {
+  umbrella header "Pods-RainTap-umbrella.h"
+
+  export *
+  module * { export * }
+}
